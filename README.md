@@ -4,7 +4,7 @@
 
 I'm a software developer, you can check out my website [here](https://jasonweb.xyz/)
 
-[![JasonMan34's github stats](https://github-readme-stats.vercel.app/api?username=JasonMan34&show_icons=true&theme=react)](https://github.com/JasonMan34/github-readme-stats)
+[![JasonMan34's github stats](https://github-readme-stats.vercel.app/api?username=JasonMan34&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div>
