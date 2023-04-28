@@ -20,4 +20,6 @@ I'm a software developer, you can check out my website [here](https://jasonweb.x
 
 &nbsp;
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=JasonMan34.JasonMan34)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJasonMan34&count_bg=%233D94C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=JasonMan34.JasonMan34) -->
