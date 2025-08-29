@@ -9,11 +9,13 @@ I'm a software developer, you can check out my website [here](https://jasonweb.x
 
 <div>
 <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"> 
+<img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"> 
 <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react"> 
 <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue"> 
 <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql"> 
 <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql"> 
-<img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust"> 
+<img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb"> 
+<img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws"> 
 <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure"> 
 <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git">
 </div>
